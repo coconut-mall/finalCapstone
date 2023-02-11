@@ -2,25 +2,29 @@
 
 ## Contents
 1. [Overview](#overview)
-2. [Overview](#dogs)
+2. [Requirements](#requirements)
+3. [Installation](#installation)
+4. [Usage](#usage)
+5. [Credits](#credits)
 
 
-
-## Overview <a name="overview"></a>
+<a name="overview"></a>
+## Overview 
 This project allows you to manage a database for the inventory of a fictional online book store.
 
-## Requirements
+<a name="requirements"></a>
+## Requirements 
 * Python3
 * SQLite module for Python (included in standard library)
 * Tabulate module for Python
 
-
+<a name="installation"></a>
 ## Installation 
 1. [Install Python 3](https://www.python.org/downloads/)
 2. Open the command line and enter `pip install tabulate` to install the tabulate module
 3. Download the project's Python files
 
-
+<a name="usage"></a>
 ## Usage
 * Ensure the two py files are in the same folder
 * The program will create a db with starting data if one doesn't already exist
@@ -30,5 +34,6 @@ This project allows you to manage a database for the inventory of a fictional on
 * You can exit the program by entering 0 at the main menu
 * This will commit the changes to the database
 
+<a name="credits"></a>
 ## Credits
 * [James Pratt](github.com/jeen-yuhs)	
