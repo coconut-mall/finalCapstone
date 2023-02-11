@@ -1,11 +1,12 @@
 # finalCapstone
 
 ## Contents
-[Link text](#dogs)
+1. [Overview](#overview)
+2. [Overview](#dogs)
 
 
 
-## Overview
+## Overview <a name="overview"></a>
 This project allows you to manage a database for the inventory of a fictional online book store.
 
 ## Requirements
@@ -14,12 +15,12 @@ This project allows you to manage a database for the inventory of a fictional on
 * Tabulate module for Python
 
 
-## Installation
+## Installation 
 1. [Install Python 3](https://www.python.org/downloads/)
 2. Open the command line and enter `pip install tabulate` to install the tabulate module
 3. Download the project's Python files
 
-<a name="dogs"></a>
+
 ## Usage
 * Ensure the two py files are in the same folder
 * The program will create a db with starting data if one doesn't already exist
